@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debdut Nandy/h1>
+<h1 align="center">Hi 👋, I'm Debdut Nandy</h1>
 <h3 align="center">A passionate aspiring Machine Learning from India with a keen interest in Data Analysis.</h3>
 
 - 🔭 I’m currently working on **Traffic AI-An AI powered Website to track traffic activities.**
@@ -44,9 +44,6 @@ EDA project identifying viewing trends and content distribution patterns.
 
 ---
 
-## 📈 GitHub Stats
-![Debdut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deb124-source&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deb124-source&layout=compact&theme=tokyonight)
 
 ---
 
