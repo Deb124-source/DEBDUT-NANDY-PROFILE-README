@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deb124-source&label=Profile%20views&color=0e75b6&style=flat" alt="deb124-source" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deb124-source" alt="deb124-source" /></a> </p>
-
 - 🔭 I’m currently working on **Traffic AI-An AI powered Website to track traffic activities**
 
 - 🌱 I’m currently learning **Django, Flask**
@@ -19,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/debdut-nandy-4b0a88321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/debdut-nandy-4b0a88321" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debdut nandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debdut nandy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/debdut_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debdut_23" height="30" width="40" /></a>
 </p>
 
