@@ -12,14 +12,14 @@
 - 👨‍💻 All of my projects are available at [https://deb124-source.github.io/Personal_Portfolio_Website/](https://deb124-source.github.io/Personal_Portfolio_Website/)
 
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13Y2AcG3fEnljDIab6ZbGvzM1ws5ZB9mK/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13Y2AcG3fEnljDIab6ZbGvzM1ws5ZB9mK/view?usp=drivesdk](https://drive.google.com/file/d/13Y2AcG3fEnljDIab6ZbGvzM1ws5ZB9mK/view?usp=drivesdk)
 
 - ⚡ Fun fact **I'm a passionate learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/debdut nandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debdut nandy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/debdut_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debdut_23" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/debdut-nandy-4b0a88321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Debdut Nandy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Debdut_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Debdut_23" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
