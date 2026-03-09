@@ -57,5 +57,5 @@ EDA project identifying viewing trends and content distribution patterns.
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debdut-nandy-4b0a88321/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://personalportfp.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://github.com/Deb124-source/Personal_Portfolio_Website)
 [![Email](https://img.shields.io/badge/Email-debdut937%40gmail.com-red?logo=gmail&logoColor=white)](mailto:debdut937@gmail.com)
